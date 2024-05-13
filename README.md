@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
+
 <h1 align="center">Hi 👋, I'm Abhay Raj</h1>
 <h3 align="center">I'm a Senior Software Engineer with over 7+ years in the industry specialized in Full Stack Development.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207">
+<img align="right" alt="Coding" width="300" src="https://t3.ftcdn.net/jpg/08/04/37/98/240_F_804379835_jQuvGF4fSrJmpD7Sdqt8O4j40kftS317.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhayraj27&label=Profile%20views&color=0e75b6&style=flat" alt="abhayraj27" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
